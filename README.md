@@ -31,4 +31,5 @@ Status: Finalizado ✔️
 
 ### Como rodar essa aplicação:
 Você pode rodar essa aplicação apenas clicando no link do surge abaixo:
+
 https://noisy-direction.surge.sh/
